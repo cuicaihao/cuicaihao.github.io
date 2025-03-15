@@ -1,0 +1,34 @@
+*~
+.dropbox
+.DS_Store
+Icon*
+
+
+# Backup files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Logs and temporary files
+*.log
+*.lock
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Hugo configuration cache
+hugo_stats.json
+
+# Git submodules
+/.gitmodules
+
+# Ignore deployment files
+.hugo_build.lock
+
+# Ignore sensitive files
+.env
