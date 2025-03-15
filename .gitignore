@@ -25,7 +25,7 @@ node_modules/
 hugo_stats.json
 
 # Git submodules
-/.gitmodules
+# /.gitmodules
 
 # Ignore deployment files
 .hugo_build.lock
