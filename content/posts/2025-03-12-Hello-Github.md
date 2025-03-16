@@ -1,6 +1,6 @@
 ---
 date: '2025-03-16T09:10:09+11:00'
-draft: false
+draft: true
 title: 'Hello Hugo+PaperMod Title'
 
 tags: ["first"]
